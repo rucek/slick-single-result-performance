@@ -1,0 +1,1 @@
+Benchmarking single-result query performance in Slick using JMH - see the [blog post](http://blog.kunicki.org/blog/2017/04/12/benchmarking-single-result-query-performance-in-slick-using-jmh/) for details.
